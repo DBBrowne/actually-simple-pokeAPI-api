@@ -1,0 +1,16 @@
+{
+  "name": "miniapi",
+  "version": "1.0.0",
+  "description": "An actually simple API to consume the pokeAPI",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "express",
+    "pokemon",
+    "pokeApi"
+  ],
+  "author": "dbbrowne <gh@dbb.tools>",
+  "license": "ISC"
+}
